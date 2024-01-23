@@ -7,18 +7,18 @@ sidebar:
     education: False # True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Dr. Kai Zhang
-    tagline: Scientist in Operational Research | Singapore PR
+    name: Sandra Zhang Ying 
+    tagline: Manager| Singapore PR
     avatar: photo.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: kaizhang@hotmail.de
-    phone: +65 89427964
+    email: ZHANGYING1212@GMAIL.COM
+    phone: +65 80399627
     timezone: Singapore/GMT+8
     citizenship:
-    website: kaiattum.github.io/online-cv/ #do not add http://
-    linkedin: kaizhangattum
-    github: kaiATtum
+    website: kaiattum.github.io/online-cv-sandra/ #do not add http://
+    linkedin: klinkedin.com/in/sandra-zhang-ying-58b72417a
+    github: #
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
