@@ -63,28 +63,10 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: Ph.D. in electrical engineering
-        university: Technical University of Munich
-        time: 2016 - 2020
-        details: |
-          Doctorate study in energy economics forusing on energy system modeling, pricing mechanisms, game theory 
-            - Dissertation: Spot Pricing Principles in Distribution Grids: From Local Market Organization to Multi-regional Coordination
-            - Advisor: Prof. Dr. Thomas Hamacher
-    
-      - degree: MSc in Electrical Engineering 
-        university: Technical University of Munich
-        time: 2013 - 2016
-        details: |
-          Master courses focusing on embeded system and control engineering
-            - Master Thesis: "Charging Demonstrator for Ancillary Service Provision in Smart Grids"
-            - Advisor: Prof. Dr. Thomas Hamacher
-      - degree: BSc in Electrical Engineering
-        university: University of Duisburg-Essen
-        time: 2010 - 2013
-        details: |
-          Bachelor courses focusing on nano engineering and information technology 
-            - Bachelor Thesis "Überprüfen und Entwicklung des PowerModuls 2.0 (Validation and development of power moduals 2.0)"  
-            - Advisor: Prof. Dr. Roland Schmechel 
+      - degree: BACHELOR OF MANAGEMENT SCIENCE
+        university:  EAST CHINA NORMAL UNIVERSITY, SHANGHAI
+        time: 2002 - 2006
+
 experiences:
     title: Experiences
     info:
