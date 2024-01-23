@@ -37,8 +37,6 @@ sidebar:
         - idiom: English
           level: Professional
 
-        - idiom: German
-          level: Professional
 
     interests:
       title: Interests
@@ -77,12 +75,14 @@ experiences:
           Sceintist in energy and transport domain, conducting research on topics in energy system planning, operation, simulation and optimisation model development. Role includes: 
             - Principle investigator - Project "Optimisation for battery swapping station integration in electricity market"
             - Contributor - Project "SITEM - Singapore Integrated Transport and Energy Model"
-      - role: Research Fellow
+      - role: REGIONAL HR MANAGER FOR 11 COUNTRIES (SOUTH EAST ASIA, SOUTH KOREA, GREATER CHINA & TAIWAN)
         time: 2015 - 2022
         company: WIPRO LIMITED, Singapore
         details: |
           	Working as the talent integration lead and collaborating with other teams to deliver the end-to-end deal lifecycle of various acquisitions in Southeast Asia,  Australia and China, such as due diligence, culture integration, change impact assessment,  designing and implementing high quality communication and change activities to enable an impactful integration experience for acquired employees.
-
+        time: 2015 - 2022
+        details: |
+          	Lead a team of 3 HRBP (expanding to 6) and manage South East Asia, South Korea and Greater China region including 11 countries, enabling a span of 2200+ diverse employees. Anchor all people processes, career & talent management
 
 
 skills:
