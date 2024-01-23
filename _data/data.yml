@@ -88,96 +88,23 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Scientist
+      - role: CHANGE MANAGEMENT & TALENT INTEGRATION, HR VENTURES & ACQUSITION
         time: 2022 - Present
-        company: Agency for Science, Technology and Research (A*STAR), Singapore
+        company: ACCENTURE, Singapore
         details: |
           Sceintist in energy and transport domain, conducting research on topics in energy system planning, operation, simulation and optimisation model development. Role includes: 
             - Principle investigator - Project "Optimisation for battery swapping station integration in electricity market"
             - Contributor - Project "SITEM - Singapore Integrated Transport and Energy Model"
       - role: Research Fellow
-        time: 2020 - 2022
-        company: Tumcreate Ltd, Singapore
+        time: 2015 - 2022
+        company: WIPRO LIMITED, Singapore
         details: |
           Project lead for project "Platform for Integrated Microgrid Operation"
             - Project conceptualisation, planning & management
             - Research in networked microgrids studies & model development & software architecture design & development   
             - Managed a team of 5 researchers from Tumcreate, EDF singapore, SIT & NTU   
             - Supervision of internships & junior researchers 
-      - role: Research Associate 
-        time: 2015 - 2020
-        company: Tumcreate Ltd, Singapore
-        details: |
-          Researcher in electricity distribution system modeling & distributed optimisation, market mechanisms and game theory  
-            - Supervision of 7 master thesis 
-            - Publication of 10+ scientic papers, book chapters
-      - role: Student employee
-        time: 2014 - 2015
-        company: Infineon Technology, Germany
-        details: |
-          Software development for object detection (reverse engineering department)
-      - role: Intern
-        time: 2012 - 2013
-        company: HELLA, Germany
-        details: |
-          Software development for driving assistance system
-    
-projects:
-    title: Projects
-    intro: >
-      Complete list
-    assignments:
-      - title: BSCS
-        link: "#"
-        tagline: "Business models development and validation for battery swapping station integration into Singapore electricity market."
 
-      - title: SITEM
-        link: "#https://www.tum-create.edu.sg/content/sitem-singapore-integrated-transport-and-energy-model"
-        tagline: "Singapore Integrated Transport and Energy Model"
-
-      - title: PRIMO
-        link: "#https://www.tum-create.edu.sg/research/project/primo-%E2%80%94-platform-integrated-microgrid-operation"
-        tagline: "Platform for Integrated Microgrid Operation"
-
-      - title: MESMO
-        link: "#https://www.tum-create.edu.sg/research/project/mesmo-multi-energy-system-modelling-optimisation"
-        tagline: "Open-source Platform for Multi-Energy System Modelling & Optimisation"
-
-
-publications:
-    title: Publications
-    intro: |
-       Selected articles and book chapters: 
-    papers:
-      - title: "A Framework for Multi-Regional Real-Time Pricing in Distribution Grids"
-        link: "#"
-        authors:  K, Zhang, S. Hanif, C. M. Hackl and T. Hamacher
-        conference: "IEEE Transactions on Smart Grid, vol. 10, no. 6, pp. 6826-6838, Nov. 2019"
-
-      - title: "Decomposition and Equilibrium Achieving Distribution Locational Marginal Prices Using Trust-Region Method"
-        link: "#"
-        authors:  S. Hanif, K, Zhang, C. M. Hackl, M. Barati, H. B. Gooi and T. Hamacherr
-        conference: "IEEE Transactions on Smart Grid, vol. 10, no. 3, pp. 3269-3281, May 2019"
-
-      - title: "Coordinated Market Design for Peer-to-Peer Energy Trade and Ancillary Services in Distribution Grids"
-        link: "#"
-        authors:  K, Zhang, S. Troitzsch, S. Hanif and T. Hamacher
-        conference: "IEEE Transactions on Smart Grid, vol. 11, no. 4, pp. 2929-2941, July 2020"
-
-      - title: "Transactive energy in an urban environment: A case study of local generation and flexibility potentials in a Singaporean urban district"
-        link: "#"
-        authors: K, Zhang, S. Troitzsch, S.-Y. Zhang, E. S. P. Teh, L. Subramanian, and T.  Massier
-        conference: "Frontiers in Energy Research, vol. 9, Frontiers, Mar. 2021, ISSN: 2296-598X"
-        
-      - title: "Distributionally Robust Co-optimized Offering for Transactive Multi-energy Microgrids"
-        link: "#"
-        authors: K, Zhang, Troitzsch, S., Han, X
-        conference: "International journal of electrical power and energy systems, Dec 2022"
-        
-      - title: "Transition towards affordable electricity: Tools and methods"
-        link: "#"
-        authors: S. Troitzsch, S. Hanif, T. Massier, K. Zhang, B. A. Bhatti, A. Ahmed and M. J. Alam.
-        conference: "MDPI, E. Constable, Ed., Jun. 2022, vol. 7, ch. 2"
 
 
 skills:
