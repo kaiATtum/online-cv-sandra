@@ -50,13 +50,6 @@ sidebar:
         - item: Cooking
           link:
 
-career-profile:
-    title: Career Profile
-    summary: |
-      I am currently xxx manager at XX company
-      - XX years R&D experience in XX
-      - Led and delivered XX
-      - XX achievement
 education:
     title: Education
     info:
