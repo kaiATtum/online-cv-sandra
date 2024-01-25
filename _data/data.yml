@@ -105,11 +105,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: Change Management 
+        level: 100%
+        
+      - name: Talent Integration in M&A 
+        level: 100%
+        
+      - name: HR Automation & Solutions
+        level: 100%
+    
       - name: Employee relationship, engagement, retention
         level: 100%
 
       - name: Legal compliance & Proactive commercial people solution
         level: 100%
+        
+      - name: New Country Setup & Organization Design
+        level: 99%
 
       - name: Talent Acquisition
         level: 99%
@@ -117,8 +129,6 @@ skills:
       - name: Workforce Mgmt & Transitions
         level: 95%
 
-      - name: Talent Integration in M&A 
-        level: 100%
 
 
 footer: >
