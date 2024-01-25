@@ -50,13 +50,6 @@ sidebar:
         - item: Cooking
           link:
 
-education:
-    title: Education
-    info:
-      - degree: BACHELOR OF MANAGEMENT SCIENCE
-        university:  EAST CHINA NORMAL UNIVERSITY, SHANGHAI
-        time: 2002 - 2006
-
 experiences:
     title: Experiences
     info:
@@ -101,6 +94,12 @@ experiences:
         details: |
          - Reponsible for xx
 
+education:
+    title: Education
+    info:
+      - degree: BACHELOR OF MANAGEMENT SCIENCE
+        university:  EAST CHINA NORMAL UNIVERSITY, SHANGHAI
+        time: 2002 - 2006
 
 skills:
     title: Skills &amp; Proficiency
